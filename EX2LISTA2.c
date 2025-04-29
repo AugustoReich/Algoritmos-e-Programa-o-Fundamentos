@@ -8,7 +8,7 @@ int main()
     scanf("%f", &cotacao);
     printf("quantos dolares voce deseja comprar: ");
     scanf("%f", &dolar);
-    dolar = real * cotacao;
-    printf("voce precisa pagar esse valor em reais: ");
+    real = dolar * cotacao;
+    printf("voce precisa pagar esse valor em reais: %.2f", real);
     return 0;
 }
