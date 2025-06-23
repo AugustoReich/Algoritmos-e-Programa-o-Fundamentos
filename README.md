@@ -1,4 +1,4 @@
-# Simulação de Propagação Viral em uma População
+# Simulador de Combate por Turnos
 
 Trabalho desenvolvido para a disciplina **Algoritmos e Programação: Fundamentos**.
 
@@ -20,9 +20,9 @@ Este programa foi feito em **linguagem C** e pode ser executado no [OnlineGDB](h
 
 ## 💡 Sobre o Programa
 
-> O programa simula a propagação de um vírus em uma população ao longo dos dias, considerando taxa de contágio, vacinação e eventos aleatórios.
+> O programa é um Simulador de Combate por Turnos.
 
 ## 📌 Observações
 
-- O código está no arquivo `trabalho.c`.
+- O código está no arquivo `jogo.c`.
 - Não é necessário instalar bibliotecas extras.
